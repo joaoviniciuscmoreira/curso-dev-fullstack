@@ -1,0 +1,62 @@
+body {
+    background:rgb(214, 220, 222);
+}
+
+.container {
+    width:900px;
+    margin: 0 auto;
+
+}
+
+.topo {
+    text-align: center;
+    background-color: rgb(61, 166, 201);
+    border-radius: 10px 10px 10px 10px;
+
+}
+
+#titulo-principal{
+    color: rgb(2, 2, 9);
+    margin-top: 20px;
+}
+
+.foto-principal{
+    width: 500px;
+    margin-bottom:10px;
+    box-shadow: 0 0 10px;
+}
+
+h2{
+    color:black;
+    font-weight: 700;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+p{
+    color:black;
+    font-family: 'Raleway', sans-serif;
+}
+
+.li {
+    color:black;
+    font-family: 'Raleway', sans-serif;
+}
+
+.icons {
+    width: 60px;
+    height: auto;
+    margin: 20px;
+}
+
+.social {
+    text-decoration: none;
+}
+
+.imagens {
+    text-align: center;
+}
+
+.social-media {
+    width: 60px;
+    height: auto;
+}
